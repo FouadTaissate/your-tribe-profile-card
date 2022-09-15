@@ -16,7 +16,7 @@ body {
 article {
   width: 100%;
   background: rgb(255, 255, 255);
-  background: linear-gradient(0deg, rgb(150, 151, 151) 40%, #f52626 100%);
+  background: linear-gradient(0deg, #1855fd 10%, #0ce752 100%);
   box-shadow:0 0 20px 20px rgba(0,0,0,.1);
   border-radius:1rem;
   position: relative;
@@ -48,13 +48,7 @@ div {
   max-width: 20rem;
 }
 
-.flex-container > div {
-  width: 100px;
-  margin: 10px;
-  text-align: center;
-  line-height: 75px;
-  font-size: 30px;
-}
+
 
 p { 
   margin:0
@@ -62,10 +56,12 @@ p {
 
 article > p {
   padding:3rem 2rem;
+  font-size: 32px;
   margin-top: 0;
   text-align:center;
   border-radius: 0 0 1rem 1rem;
   width:100%;
 }
+
 
 
