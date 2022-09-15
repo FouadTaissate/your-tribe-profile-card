@@ -8,3 +8,4 @@ Hier is mijn visitekaartje:
 
 
 <img width="730" alt="image" src="https://user-images.githubusercontent.com/112860051/190448851-f79bbd79-1643-405c-bfe1-c13f499083fa.png">
+Mijn visitekaartje kan je ook vinden op https://fouad.student.fdnd.nl
