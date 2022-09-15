@@ -1,2 +1,6 @@
-> Fork deze leertaak en ga aan de slag. Onderstaande outline ga je gedurende deze taak in jouw eigen GitHub omgeving uitwerken. De instructie vind je in: [docs/INSTRUCTIONS.md](docs/INSTRUCTIONS.md)
+Welkom bij mijn visitekaartje!
 
+Ik ben begonnen met het maken van mijn visitekaartje waarin ik informatie over mezelf moest laten zien. Ik heb hier html en CSS voor gebruikt (javascript is nog een beetje moeilijk).
+
+Hier is mijn visitekaartje:
+<img width="730" alt="image" src="https://user-images.githubusercontent.com/112860051/190448851-f79bbd79-1643-405c-bfe1-c13f499083fa.png">
