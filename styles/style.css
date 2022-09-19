@@ -24,14 +24,6 @@ article {
 }
 
 
-
-h1 {
-  margin:2rem 0 1rem;
-  color: rgb(255, 255, 255);
-}
-
-
-
 div {
   display: flex;
   flex-direction: column;
@@ -44,24 +36,55 @@ div {
 }
 
 .right-half article img {
-  width: 50%;
+  width: 25%;
+  height: 25%;
   max-width: 20rem;
 }
 
 
 
 p { 
-  margin:0
+  margin:0;
 }
 
-article > p {
+article > p  {
   padding:3rem 2rem;
-  font-size: 32px;
+  font-size: 28px;
   margin-top: 0;
   text-align:center;
   border-radius: 0 0 1rem 1rem;
   width:100%;
 }
+
+
+.collapsible {
+  background-color: rgb(221, 25, 25);
+  color: black;
+  cursor: pointer;
+  padding: 18px;
+  border: none;
+  text-align: center;
+  outline: none;
+  font-size: 15px;
+}
+
+.active, .collapsible:hover {
+  background-color: rgb(22, 235, 193);
+}
+
+.content {
+  display: none;
+  padding: 2px;
+  width: 70%;
+}
+
+ul {
+  list-style: none;
+  padding: 4px;
+  white-space: nowrap;
+}
+
+
 
 
 
